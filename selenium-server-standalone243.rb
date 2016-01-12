@@ -28,7 +28,7 @@ class SeleniumServerStandalone243 < Formula
       <array>
         <string>/usr/bin/java</string>
         <string>-jar</string>
-        <string>#{libexec}/selenium-server-standalone-2.45.0.jar</string>
+        <string>#{libexec}/selenium-server-standalone-2.43.1.jar</string>
         <string>-port</string>
         <string>4444</string>
       </array>
